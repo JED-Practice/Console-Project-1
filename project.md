@@ -16,4 +16,4 @@
 - **Database üçün ADO.NET seçilməlidir(SQL-i xatırlamaq üçün 🤠)**
 - **Database üçün nümunə model:**
   <img src='./db-model.png'/>
-- **Mümkün qədər bütün ola biləcək exceptionlar nəzərə alınmalıdır və ehtiyyac olarsa Custom Exceptionlar yazılmalıdır**
+- **Mümkün qədər bütün ola biləcək exceptionlar nəzərə alınmalıdır və ehtiyac olarsa Custom Exceptionlar yazılmalıdır**
